@@ -47,7 +47,7 @@ bool modoAutonomo = true;
 unsigned long previousMillis = 0;
 
 // Velocidad general de cambio de expresiones
-const unsigned long INTERVALO_ANIMACION = 700;
+const unsigned long INTERVALO_ANIMACION = 500;
 
 int pasoSecuencia = 0;
 
