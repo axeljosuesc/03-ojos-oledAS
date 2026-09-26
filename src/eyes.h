@@ -37,7 +37,14 @@
 
 #define eye_look_up    Irisoled::look_up
 #define eye_look_down  Irisoled::look_down
+#define eye_wink_left    Irisoled::wink_left
 
+#define eye_look_down    Irisoled::look_down
+#define eye_look_up      Irisoled::look_up
+#define eye_worried      Irisoled::worried
+#define eye_focused      Irisoled::focused
+#define eye_furious      Irisoled::furious
+#define icon_battery_full Irisoled::battery_full
 /**
  * Renderiza de forma inmediata un bitmap de expresión en la pantalla OLED.
  * Limpia el buffer previo, dibuja el bitmap monocromático y vuelca el buffer.
